@@ -218,4 +218,4 @@ WinMerge is available as a full free version, providing all features and updates
 Unlock the full potential of your file management by downloading WinMerge today! Enjoy a seamless experience with this powerful comparison tool.
 
 ---
-**Last updated:** 2026-09-19 19:09:56 UTC
+**Last updated:** 2026-09-19 22:07:38 UTC
